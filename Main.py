@@ -123,4 +123,5 @@ for element in elements_toProcess:
     
 Total_time = time.time() - init_time
 print("TOTAL TIME FOR THE ELEMENTS " + str(Total_time) + "Seconds") 
+finish = input("Push any key to finish ")
     
